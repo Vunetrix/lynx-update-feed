@@ -1,0 +1,23 @@
+﻿{
+    "schema_version":  "1.0",
+    "published_at":  "2026-03-09T21:48:36.1008126Z",
+    "integrations":  {
+                         "Genetec":  {
+                                         "version":  "1.0.0",
+                                         "release_notes":  "Pilot feed update.",
+                                         "sha256":  "a71c68f65bba1d98e317be0de44362e7790c06af8b33fd72880c1ea13dc94ae8",
+                                         "size_bytes":  15855408,
+                                         "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/genetec_prtg_sensor.exe",
+                                         "exe_name":  "genetec_prtg_sensor.exe"
+                                     },
+                         "Verkada":  {
+                                         "version":  "1.0.0",
+                                         "release_notes":  "Pilot feed update.",
+                                         "sha256":  "fb5a2dc3c0e5ad53731180be8b80bf5b03fe21750c7de92ef1cae2c658e864ce",
+                                         "size_bytes":  15744263,
+                                         "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/verkada_prtg_sensor.exe",
+                                         "exe_name":  "verkada_prtg_sensor.exe"
+                                     }
+                     },
+    "minimum_app_version":  "1.0.0"
+}
