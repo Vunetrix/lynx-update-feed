@@ -1,6 +1,6 @@
-﻿{
+{
     "schema_version":  "1.0",
-    "published_at":  "2026-03-09T21:48:36.1008126Z",
+    "published_at":  "2026-03-11T17:45:36.5276681Z",
     "integrations":  {
                          "Genetec":  {
                                          "version":  "1.0.0",
