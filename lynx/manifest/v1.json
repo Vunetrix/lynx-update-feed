@@ -1,20 +1,28 @@
 {
     "schema_version":  "1.0",
-    "published_at":  "2026-03-11T17:53:26.0905423Z",
+    "app":  {
+                "version":  "2.6.0",
+                "release_notes":  "Lynx 2.6.0 updater UX improvements and app self-update handoff.",
+                "sha256":  "8c2a782be77959203140b0dbc0ae20bdd855c97a885de2f4a5aeac4cf600094a",
+                "size_bytes":  51797818,
+                "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/LynxUtility-Setup-2.6.0.exe",
+                "exe_name":  "LynxUtility-Setup-2.6.0.exe"
+            },
+    "published_at":  "2026-03-11T20:00:12.7892150Z",
     "integrations":  {
                          "Genetec":  {
                                          "version":  "1.0.0",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "a71c68f65bba1d98e317be0de44362e7790c06af8b33fd72880c1ea13dc94ae8",
-                                         "size_bytes":  15855408,
+                                         "sha256":  "2483d1cb2736f755180a3d08d056a54139951b8085c63ded823849917daab4c1",
+                                         "size_bytes":  15858445,
                                          "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/genetec_prtg_sensor.exe",
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
                          "Verkada":  {
                                          "version":  "1.0.0",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "fb5a2dc3c0e5ad53731180be8b80bf5b03fe21750c7de92ef1cae2c658e864ce",
-                                         "size_bytes":  15744263,
+                                         "sha256":  "4e614d4de8f0a3fa092139546629191acfb4acdb8452dfbe59c81fd9bc294007",
+                                         "size_bytes":  15744346,
                                          "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
                                      }
