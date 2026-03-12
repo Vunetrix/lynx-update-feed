@@ -2,28 +2,28 @@
     "schema_version":  "1.0",
     "app":  {
                 "version":  "2.6.0",
-                "release_notes":  "Lynx 2.6.0 updater UX improvements and app self-update handoff.",
-                "sha256":  "8c2a782be77959203140b0dbc0ae20bdd855c97a885de2f4a5aeac4cf600094a",
-                "size_bytes":  51797818,
-                "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/LynxUtility-Setup-2.6.0.exe",
+                "release_notes":  "Pilot installer update.",
+                "sha256":  "54b824246894e0ca3d3c7a06f482dc039357ebaa2b019fb1e9869b7194847838",
+                "size_bytes":  51796756,
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.0.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.0.exe"
             },
-    "published_at":  "2026-03-11T20:00:12.7892150Z",
+    "published_at":  "2026-03-12T16:51:19.9127482Z",
     "integrations":  {
                          "Genetec":  {
                                          "version":  "1.0.0",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "2483d1cb2736f755180a3d08d056a54139951b8085c63ded823849917daab4c1",
-                                         "size_bytes":  15858445,
-                                         "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/genetec_prtg_sensor.exe",
+                                         "sha256":  "7f5882ec21f6c22e768c525805636fa12fb7e2b5e0faea016aa50900852b9984",
+                                         "size_bytes":  15858969,
+                                         "download_url":  "https://updates.vunetrix.com/lynx/files/genetec_prtg_sensor.exe",
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
                          "Verkada":  {
                                          "version":  "1.0.0",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "4e614d4de8f0a3fa092139546629191acfb4acdb8452dfbe59c81fd9bc294007",
-                                         "size_bytes":  15744346,
-                                         "download_url":  "https://lynx-o0gi.onrender.com/lynx/files/verkada_prtg_sensor.exe",
+                                         "sha256":  "eba1717ac608ffba81d2a5dd710e1a138d41b6cb655b2d84b249f4c1b9ed9e7b",
+                                         "size_bytes":  15744450,
+                                         "download_url":  "https://updates.vunetrix.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
                                      }
                      },
