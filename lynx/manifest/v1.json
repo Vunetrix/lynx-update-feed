@@ -8,7 +8,7 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.0.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.0.exe"
             },
-    "published_at":  "2026-03-24T00:11:59.2373026Z",
+    "published_at":  "2026-03-24T00:21:29.5851231Z",
     "integrations":  {
                          "Genetec":  {
                                          "version":  "1.0.1",
@@ -19,10 +19,10 @@
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
                          "ExacqVision":  {
-                                             "version":  "1.0.3",
+                                             "version":  "1.0.4",
                                              "release_notes":  "Pilot feed update.",
-                                             "sha256":  "b38272a53f30c6a058d1430d2ff576215f26e69e10a6a7469318ee9f4f410b5b",
-                                             "size_bytes":  15750023,
+                                             "sha256":  "bd979c8bd88f6455984327c2295f36862a988e1e0863da3b3c4692ed7a88c421",
+                                             "size_bytes":  15751864,
                                              "download_url":  "https://updates.vunetrix.com/lynx/files/exacq_prtg_sensor.exe",
                                              "exe_name":  "exacq_prtg_sensor.exe"
                                          },
