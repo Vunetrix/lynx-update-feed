@@ -1,36 +1,36 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "2.6.0",
-                "release_notes":  "Pilot installer update.",
-                "sha256":  "ee7a9f8baec8853446230ca7657e26095ac6a16cd771fcdc0cbca0d3cf8845d2",
-                "size_bytes":  67196920,
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.0.exe",
-                "exe_name":  "LynxUtility-Setup-2.6.0.exe"
+                "version":  "2.6.1",
+                "release_notes":  "Exacq cache-first IP workflow and shared cache builder.",
+                "sha256":  "2c8f0c5f95f6c38a34d112858d38d709705b9f04df8e8d1ab128c8c05ed847df",
+                "size_bytes":  67209055,
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.1.exe",
+                "exe_name":  "LynxUtility-Setup-2.6.1.exe"
             },
-    "published_at":  "2026-03-24T01:46:25.7405219Z",
+    "published_at":  "2026-03-24T02:25:27.8076268Z",
     "integrations":  {
                          "Genetec":  {
                                          "version":  "1.0.1",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "71eb14e47c4d1bd5913d32c589686d98466de4665ea3387264c82358e0bfe584",
-                                         "size_bytes":  15857445,
+                                         "sha256":  "0c82cfd0df4a32309d4ad2d421230e1eb46f466c07a457e05eecda3d85a5fbf1",
+                                         "size_bytes":  15857581,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/genetec_prtg_sensor.exe",
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
                          "ExacqVision":  {
-                                             "version":  "1.0.7",
-                                             "release_notes":  "Exacq IP-direct fallback before inventory lookup.",
-                                             "sha256":  "d68acfdc7e97ac81d230d3ae35fff037762d6bfa715901eedb72e224248d18c6",
-                                             "size_bytes":  15752945,
+                                             "version":  "1.1.0",
+                                             "release_notes":  "Cache-first IP workflow + corrected login.web session flow.",
+                                             "sha256":  "e9f075d024904b01bff7d23b2451ac523f005cb72ce7d5ad746bb15660da3497",
+                                             "size_bytes":  15749766,
                                              "download_url":  "https://updates.vunetrix.com/lynx/files/exacq_prtg_sensor.exe",
                                              "exe_name":  "exacq_prtg_sensor.exe"
                                          },
                          "Verkada":  {
                                          "version":  "1.0.1",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "6a73de14ae76df59e33aa01a501ebe79ea9739e20a0745892aa871c8c8fe1445",
-                                         "size_bytes":  15743900,
+                                         "sha256":  "5e20ed6af36a819192c8111dea50abc895d8ce73e6dbbfa366cda7a5d2e2d24c",
+                                         "size_bytes":  15744402,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
                                      }
