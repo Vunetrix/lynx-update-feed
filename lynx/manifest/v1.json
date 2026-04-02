@@ -8,13 +8,29 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.2.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.2.exe"
             },
-    "published_at":  "2026-03-27T21:10:15.7031870Z",
+    "published_at":  "2026-04-02T20:58:03.1223589Z",
     "integrations":  {
+                         "Milestone":  {
+                                           "additional_artifacts":  [
+                                                                        {
+                                                                            "exe_name":  "milestone_server_stats_prtg.exe",
+                                                                            "size_bytes":  15752839,
+                                                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_server_stats_prtg.exe",
+                                                                            "sha256":  "e303c1701c0c23ed4e8434cb789574a8cf54f78e1cd0e909c94e13b0e419c80c"
+                                                                        }
+                                                                    ],
+                                           "version":  "1.0.0",
+                                           "release_notes":  "Pilot feed update.",
+                                           "sha256":  "5cb27bbb141f305310a93489005415a668d4f5a64da97daba4730bf7923d8d93",
+                                           "size_bytes":  15752916,
+                                           "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
+                                           "exe_name":  "milestone_prtg_sensor.exe"
+                                       },
                          "Genetec":  {
                                          "version":  "1.0.1",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "eb74d8b567f5f5085735751702e0ccc60f540b700d428606459ba034c4a0d0f2",
-                                         "size_bytes":  15858960,
+                                         "sha256":  "0ced56a5fb4793a5884bf3ebb7985f14abb23976d79c2694a7f3a0ac3ed75f12",
+                                         "size_bytes":  15857817,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/genetec_prtg_sensor.exe",
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
@@ -22,23 +38,23 @@
                                              "additional_artifacts":  [
                                                                           {
                                                                               "exe_name":  "exacq_server_stats_prtg.exe",
-                                                                              "size_bytes":  15747042,
+                                                                              "size_bytes":  15746674,
                                                                               "download_url":  "https://updates.vunetrix.com/lynx/files/exacq_server_stats_prtg.exe",
-                                                                              "sha256":  "2dc816b161eed515613524d25e278c8de1319c41dc9e8310422f0765c9733e86"
+                                                                              "sha256":  "9634dab81a32873fc78939d7fa061862ce60563a9d9523a96506518f0073a070"
                                                                           }
                                                                       ],
                                              "version":  "1.1.0",
                                              "release_notes":  "Pilot feed update.",
-                                             "sha256":  "5097aa3d597cc71612aa5ebc6c5afcf64399f470dee526be605a59ece527c216",
-                                             "size_bytes":  15749320,
+                                             "sha256":  "10df6cafc75a1ca9f05903b0a46c53812a937e2eed5b30e2de2fd6ade905ea07",
+                                             "size_bytes":  15749898,
                                              "download_url":  "https://updates.vunetrix.com/lynx/files/exacq_prtg_sensor.exe",
                                              "exe_name":  "exacq_prtg_sensor.exe"
                                          },
                          "Verkada":  {
                                          "version":  "1.0.1",
                                          "release_notes":  "Pilot feed update.",
-                                         "sha256":  "b70ee3e5aef7dd50cd51d32f233c91fdeeb3bb7d426a41d0b371545321dc43e1",
-                                         "size_bytes":  15744043,
+                                         "sha256":  "e4c0211a437d8d7ca1426a8c1721b555a08f818cb71cfd9f053fd897eb0ac88d",
+                                         "size_bytes":  15743248,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
                                      }
