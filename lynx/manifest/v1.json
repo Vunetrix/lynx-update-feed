@@ -8,7 +8,7 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.2.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.2.exe"
             },
-    "published_at":  "2026-04-02T20:58:03.1223589Z",
+    "published_at":  "2026-04-06T15:34:37.9323813Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -27,10 +27,10 @@
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
                          "Genetec":  {
-                                         "version":  "1.0.1",
-                                         "release_notes":  "Pilot feed update.",
-                                         "sha256":  "0ced56a5fb4793a5884bf3ebb7985f14abb23976d79c2694a7f3a0ac3ed75f12",
-                                         "size_bytes":  15857817,
+                                         "version":  "1.0.2",
+                                         "release_notes":  "Genetec hotfix: stabilize XML output under probe load (PE231).",
+                                         "sha256":  "32667d1afb3ae99e09e91b027153a298bac7aa49a1c658948923bd5c2a9c1829",
+                                         "size_bytes":  15857892,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/genetec_prtg_sensor.exe",
                                          "exe_name":  "genetec_prtg_sensor.exe"
                                      },
