@@ -8,21 +8,21 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.2.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.2.exe"
             },
-    "published_at":  "2026-04-06T15:34:37.9323813Z",
+    "published_at":  "2026-04-08T20:27:18.8227130Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
                                                                         {
                                                                             "exe_name":  "milestone_server_stats_prtg.exe",
-                                                                            "size_bytes":  15752839,
+                                                                            "size_bytes":  15751738,
                                                                             "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_server_stats_prtg.exe",
-                                                                            "sha256":  "e303c1701c0c23ed4e8434cb789574a8cf54f78e1cd0e909c94e13b0e419c80c"
+                                                                            "sha256":  "59b7b5d2adae923d22b7b55e3f69b9df7dca28a2b0f5d7ba8c5aed3c0f0d53ea"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.0",
-                                           "release_notes":  "Pilot feed update.",
-                                           "sha256":  "5cb27bbb141f305310a93489005415a668d4f5a64da97daba4730bf7923d8d93",
-                                           "size_bytes":  15752916,
+                                           "version":  "1.0.1",
+                                           "release_notes":  "Milestone integration initial production cut.",
+                                           "sha256":  "6a875426ffbb449b57df51f266887dda94acb63bbb3d67056bfd8f3a2541fc0e",
+                                           "size_bytes":  15754881,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
