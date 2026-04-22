@@ -1,9 +1,9 @@
 {
     "installer":  {
-                      "exe_name":  "LynxUtility-Setup-2.6.2.exe",
-                      "size_bytes":  82676595,
-                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.2.exe",
-                      "sha256":  "7bb58da9f81b6481451dbfb3c9dacf166de1bc04cd2c8685788f0168b3f99697",
+                      "exe_name":  "LynxUtility-Update-2.6.3.exe",
+                      "size_bytes":  20719474,
+                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.3.exe",
+                      "sha256":  "4bed8e627c861029af802ef4802c9572733e7457e7867bdf41ad79f9996bbd83",
                       "note":  "Published for upcoming app-update contract rollout."
                   }
 }
