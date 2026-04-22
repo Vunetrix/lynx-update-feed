@@ -8,21 +8,21 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Setup-2.6.2.exe",
                 "exe_name":  "LynxUtility-Setup-2.6.2.exe"
             },
-    "published_at":  "2026-04-08T20:27:18.8227130Z",
+    "published_at":  "2026-04-22T20:13:32.1474672Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
                                                                         {
                                                                             "exe_name":  "milestone_server_stats_prtg.exe",
-                                                                            "size_bytes":  15751738,
+                                                                            "size_bytes":  15752676,
                                                                             "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_server_stats_prtg.exe",
-                                                                            "sha256":  "59b7b5d2adae923d22b7b55e3f69b9df7dca28a2b0f5d7ba8c5aed3c0f0d53ea"
+                                                                            "sha256":  "6bf43be114f351715c49c3fdd8a52ac40d9877824e424d7915942cfcfd47ab1c"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.1",
-                                           "release_notes":  "Milestone integration initial production cut.",
-                                           "sha256":  "6a875426ffbb449b57df51f266887dda94acb63bbb3d67056bfd8f3a2541fc0e",
-                                           "size_bytes":  15754881,
+                                           "version":  "1.0.2",
+                                           "release_notes":  "Milestone auth hotfix: no-scope token request with scope fallback.",
+                                           "sha256":  "2702af727d15edfcbb98e710ad12e6a4965d7d0b7b45ae8b2dc349c86cdac43e",
+                                           "size_bytes":  15754522,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
