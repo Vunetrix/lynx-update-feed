@@ -8,21 +8,21 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.3.exe",
                 "exe_name":  "LynxUtility-Update-2.6.3.exe"
             },
-    "published_at":  "2026-04-22T22:39:56.8160377Z",
+    "published_at":  "2026-04-24T20:23:17.3670026Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
                                                                         {
                                                                             "exe_name":  "milestone_server_stats_prtg.exe",
-                                                                            "size_bytes":  15752842,
+                                                                            "size_bytes":  15752991,
                                                                             "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_server_stats_prtg.exe",
-                                                                            "sha256":  "fff22809b034d09677471edc01fda29490eea52c4681c517284651bf6a14e687"
+                                                                            "sha256":  "d220bc8d46feaea0df8cf9c63ae67731882aa0a142d141236bfa9d0a4eef0a9a"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.3",
-                                           "release_notes":  "Pilot feed update.",
-                                           "sha256":  "09bb7ec6c9798c7cfe026c7f11a44539047aafc44291be35d8cda43cd4eca989",
-                                           "size_bytes":  15753798,
+                                           "version":  "1.0.4",
+                                           "release_notes":  "Milestone hotfix: IP extraction from camera name/display text and clean XML-only output.",
+                                           "sha256":  "31f11a74898884e7ae6fc4c17630e38d9f41bbef7d9ae94ff7adf7be027fe3d5",
+                                           "size_bytes":  15755074,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
