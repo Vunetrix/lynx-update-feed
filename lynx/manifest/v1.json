@@ -8,7 +8,7 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.4.exe",
                 "exe_name":  "LynxUtility-Update-2.6.4.exe"
             },
-    "published_at":  "2026-04-24T21:00:40.0416141Z",
+    "published_at":  "2026-04-24T22:14:20.4696820Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -19,10 +19,10 @@
                                                                             "sha256":  "00bb085b6001a986429596b3247dca90bc6bbb64459dbf2f3f16f8459a4298fd"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.4",
-                                           "release_notes":  "Milestone hotfix: IP extraction from camera name/display text and clean XML-only output.",
-                                           "sha256":  "b2d3a2a7002f2c72cac321aaf780e600215f61daf96aa57f647270c400d604d3",
-                                           "size_bytes":  15755221,
+                                           "version":  "1.0.5",
+                                           "release_notes":  "Milestone fallback enhancement: use recording fields for meaningful channel values when live-state API is unavailable.",
+                                           "sha256":  "1827d666df3aad82423bb96ecbbb8c43ce7c15f9e6f3f4250064350fc73ce8f2",
+                                           "size_bytes":  15753005,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
