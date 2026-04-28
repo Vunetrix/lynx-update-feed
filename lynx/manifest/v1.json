@@ -8,21 +8,21 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.4.exe",
                 "exe_name":  "LynxUtility-Update-2.6.4.exe"
             },
-    "published_at":  "2026-04-24T22:14:20.4696820Z",
+    "published_at":  "2026-04-27T20:24:10.8337228Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
                                                                         {
                                                                             "exe_name":  "milestone_server_stats_prtg.exe",
-                                                                            "size_bytes":  15753956,
+                                                                            "size_bytes":  15019885,
                                                                             "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_server_stats_prtg.exe",
-                                                                            "sha256":  "00bb085b6001a986429596b3247dca90bc6bbb64459dbf2f3f16f8459a4298fd"
+                                                                            "sha256":  "5d0cb5cec942ad863d836c088646feaf5d155a21783b18481ada6422f1a0d919"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.5",
-                                           "release_notes":  "Milestone fallback enhancement: use recording fields for meaningful channel values when live-state API is unavailable.",
-                                           "sha256":  "1827d666df3aad82423bb96ecbbb8c43ce7c15f9e6f3f4250064350fc73ce8f2",
-                                           "size_bytes":  15753005,
+                                           "version":  "1.0.6",
+                                           "release_notes":  "Milestone fallback enhancement: read stream settings and storage retention when live-state API is unavailable.",
+                                           "sha256":  "51010c2e698288f41cfc948e02a968a70e80f436f099ee16d63521ea174a97a1",
+                                           "size_bytes":  15018838,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
