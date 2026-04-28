@@ -8,7 +8,7 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.4.exe",
                 "exe_name":  "LynxUtility-Update-2.6.4.exe"
             },
-    "published_at":  "2026-04-27T20:24:10.8337228Z",
+    "published_at":  "2026-04-28T22:24:48.1395153Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -43,10 +43,10 @@
                                                                               "sha256":  "d4021f9fac26d775070b7097563b014499bba342e1ceaa725f0dc44dacef6e26"
                                                                           }
                                                                       ],
-                                             "version":  "1.1.0",
-                                             "release_notes":  "Pilot feed update.",
-                                             "sha256":  "6806db12d7858fcbc455889cf0093a97a384a585c6ebcc16a9a2fbddb8a1d946",
-                                             "size_bytes":  15750174,
+                                             "version":  "1.1.1",
+                                             "release_notes":  "ExacqVision camera sensor: add Hours Since Last Recording for motion-recorded camera monitoring.",
+                                             "sha256":  "14ba6ad61566a3339c7367061bbe248e54b710af5106d07ecccd227358cb8798",
+                                             "size_bytes":  15011352,
                                              "download_url":  "https://updates.vunetrix.com/lynx/files/exacq_prtg_sensor.exe",
                                              "exe_name":  "exacq_prtg_sensor.exe"
                                          },
