@@ -8,7 +8,7 @@
                 "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-2.6.4.exe",
                 "exe_name":  "LynxUtility-Update-2.6.4.exe"
             },
-    "published_at":  "2026-04-28T22:24:48.1395153Z",
+    "published_at":  "2026-04-29T19:36:48.9272882Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -19,10 +19,10 @@
                                                                             "sha256":  "5d0cb5cec942ad863d836c088646feaf5d155a21783b18481ada6422f1a0d919"
                                                                         }
                                                                     ],
-                                           "version":  "1.0.6",
-                                           "release_notes":  "Milestone fallback enhancement: read stream settings and storage retention when live-state API is unavailable.",
-                                           "sha256":  "51010c2e698288f41cfc948e02a968a70e80f436f099ee16d63521ea174a97a1",
-                                           "size_bytes":  15018838,
+                                           "version":  "1.0.7",
+                                           "release_notes":  "Milestone camera sensor: add Hours Since Last Recording for motion-recorded camera monitoring.",
+                                           "sha256":  "e653eb6fbc6d8ce76cac98970390d087d4a31935fbdac9637dccda68a0c860ec",
+                                           "size_bytes":  15164331,
                                            "download_url":  "https://updates.vunetrix.com/lynx/files/milestone_prtg_sensor.exe",
                                            "exe_name":  "milestone_prtg_sensor.exe"
                                        },
