@@ -1,9 +1,9 @@
 {
     "installer":  {
-                      "exe_name":  "LynxUtility-Update-3.0.2.exe",
-                      "size_bytes":  26804088,
-                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.2.exe",
-                      "sha256":  "dec70ab456916fb036d6aa91b30cbae4057a3ccdb8ee501e88bc601972dd2c33",
+                      "exe_name":  "LynxUtility-Update-3.0.3.exe",
+                      "size_bytes":  26805756,
+                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.3.exe",
+                      "sha256":  "80c35a20d5c4647453372a4cf26a621c787108b0fdd29aa0fa82f7d9783f7938",
                       "note":  "Published for upcoming app-update contract rollout."
                   }
 }

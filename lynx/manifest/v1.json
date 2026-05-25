@@ -1,14 +1,14 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "3.0.2",
-                "release_notes":  "Lynx 3.0.2 is a polish hotfix for the modern Vunetrix UI, improving dashboard integration visibility, vendor logo presentation, configuration detail status display, About page information, and packaged asset validation while preserving existing configurations, licenses, integrations, update behavior, and PRTG sensor deployment workflows.",
-                "sha256":  "dec70ab456916fb036d6aa91b30cbae4057a3ccdb8ee501e88bc601972dd2c33",
-                "size_bytes":  26804088,
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.2.exe",
-                "exe_name":  "LynxUtility-Update-3.0.2.exe"
+                "version":  "3.0.3",
+                "release_notes":  "Lynx 3.0.3 improves the app update workflow by allowing customers to download a Lynx app update and install it later from a clear Install Lynx Update action, while preserving existing configurations, licenses, integrations, update behavior, and PRTG sensor deployment workflows.",
+                "sha256":  "80c35a20d5c4647453372a4cf26a621c787108b0fdd29aa0fa82f7d9783f7938",
+                "size_bytes":  26805756,
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.3.exe",
+                "exe_name":  "LynxUtility-Update-3.0.3.exe"
             },
-    "published_at":  "2026-05-22T18:02:47.7876683Z",
+    "published_at":  "2026-05-25T16:18:15.1784843Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
