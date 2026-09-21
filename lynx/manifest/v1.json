@@ -1,14 +1,14 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "3.0.3",
-                "release_notes":  "Lynx 3.0.3 improves the app update workflow by allowing customers to download a Lynx app update and install it later from a clear Install Lynx Update action, while preserving existing configurations, licenses, integrations, update behavior, and PRTG sensor deployment workflows.",
-                "sha256":  "80c35a20d5c4647453372a4cf26a621c787108b0fdd29aa0fa82f7d9783f7938",
-                "size_bytes":  26805756,
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.3.exe",
-                "exe_name":  "LynxUtility-Update-3.0.3.exe"
+                "version":  "3.0.5",
+                "release_notes":  "Lynx 3.0.5 updates customer-facing Milestone branding to Milestone XProtect and preserves compatibility with the existing update manifest.",
+                "sha256":  "56d37f85db2da5d84caba700de63c19feb212d4fc1342f9490db8d1a0842cce3",
+                "size_bytes":  26807783,
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.5.exe",
+                "exe_name":  "LynxUtility-Update-3.0.5.exe"
             },
-    "published_at":  "2026-05-25T16:18:15.1784843Z",
+    "published_at":  "2026-09-21T20:44:21.9283744Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -51,10 +51,10 @@
                                              "exe_name":  "exacq_prtg_sensor.exe"
                                          },
                          "Verkada":  {
-                                         "version":  "1.0.1",
-                                         "release_notes":  "Pilot feed update.",
-                                         "sha256":  "49a956db6d6a29f5366b78f8e49fa955c909c304d94bc685356e2d49b0faee77",
-                                         "size_bytes":  15744235,
+                                         "version":  "1.0.2",
+                                         "release_notes":  "Updates Verkada streaming API compatibility, securely reuses unexpired stream tokens to prevent active-token limit errors, and renames the State channel to Camera Online.",
+                                         "sha256":  "6a30ce90c0e6966eef03065cc7405303713ceb7d4a1566a74670b4c28294cf8f",
+                                         "size_bytes":  15008902,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
                                      }
