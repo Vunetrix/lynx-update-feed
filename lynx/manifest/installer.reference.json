@@ -1,9 +1,9 @@
 {
     "installer":  {
-                      "exe_name":  "LynxUtility-Update-3.0.5.exe",
-                      "size_bytes":  26807783,
-                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.5.exe",
-                      "sha256":  "56d37f85db2da5d84caba700de63c19feb212d4fc1342f9490db8d1a0842cce3",
-                      "note":  "Published for upcoming app-update contract rollout."
+                      "exe_name":  "LynxUtility-Update-3.5.0.exe",
+                      "size_bytes":  43205807,
+                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.0.exe",
+                      "sha256":  "f65fb65d4cb86ed6b9b5e6371a985e255f7cc62faa031741051b472ad4e95674",
+                      "note":  "Lynx update installer; includes Uniview Preview sensor."
                   }
 }

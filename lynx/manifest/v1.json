@@ -1,14 +1,14 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "3.0.5",
-                "release_notes":  "Lynx 3.0.5 updates customer-facing Milestone branding to Milestone XProtect and preserves compatibility with the existing update manifest.",
-                "sha256":  "56d37f85db2da5d84caba700de63c19feb212d4fc1342f9490db8d1a0842cce3",
-                "size_bytes":  26807783,
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.0.5.exe",
-                "exe_name":  "LynxUtility-Update-3.0.5.exe"
+                "version":  "3.5.0",
+                "exe_name":  "LynxUtility-Update-3.5.0.exe",
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.0.exe",
+                "sha256":  "f65fb65d4cb86ed6b9b5e6371a985e255f7cc62faa031741051b472ad4e95674",
+                "size_bytes":  43205807,
+                "release_notes":  "Lynx 3.5.0 introduces the updated interface and Uniview Preview: licensed NVR configuration, camera discovery, and sensor deployment. Uniview reports camera connectivity, not recording status. Live NVR validation is pending. Existing integration packages are unchanged."
             },
-    "published_at":  "2026-09-21T20:44:21.9283744Z",
+    "published_at":  "2026-11-04T22:14:51.8647135Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -57,6 +57,14 @@
                                          "size_bytes":  15008902,
                                          "download_url":  "https://updates.vunetrix.com/lynx/files/verkada_prtg_sensor.exe",
                                          "exe_name":  "verkada_prtg_sensor.exe"
+                                     },
+                         "Uniview":  {
+                                         "version":  "0.1.0",
+                                         "exe_name":  "uniview_prtg_sensor.exe",
+                                         "download_url":  "https://updates.vunetrix.com/lynx/files/uniview_prtg_sensor-0.1.0.exe",
+                                         "sha256":  "1174c5d7da2e50111a983c48d78c9fbd577b89d807421213efcbc4d53a989d51",
+                                         "size_bytes":  15072614,
+                                         "release_notes":  "Preview: read-only Uniview NVR camera connectivity and API response time. Live model/firmware validation is pending. Recording status is not monitored. Requires a Uniview license and Lynx 3.5.0 or later for configuration."
                                      }
                      },
     "minimum_app_version":  "1.0.0"
