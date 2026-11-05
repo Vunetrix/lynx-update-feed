@@ -1,14 +1,14 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "3.5.0",
-                "exe_name":  "LynxUtility-Update-3.5.0.exe",
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.0.exe",
-                "sha256":  "f65fb65d4cb86ed6b9b5e6371a985e255f7cc62faa031741051b472ad4e95674",
-                "size_bytes":  43205807,
-                "release_notes":  "Lynx 3.5.0 introduces the updated interface and Uniview Preview: licensed NVR configuration, camera discovery, and sensor deployment. Uniview reports camera connectivity, not recording status. Live NVR validation is pending. Existing integration packages are unchanged."
+                "version":  "3.5.1",
+                "exe_name":  "LynxUtility-Update-3.5.1.exe",
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.1.exe",
+                "sha256":  "0c1ce139102df0d68dd43022050177878713382249c046db3cfd4f663e7fab8d",
+                "size_bytes":  43226081,
+                "release_notes":  "Lynx 3.5.1 adds the Uniview UNV logo to Dashboard and Integrations. App-only visual update; all sensor packages, configurations, licensing, and deployment behavior remain unchanged. Uniview remains Preview."
             },
-    "published_at":  "2026-11-04T22:14:51.8647135Z",
+    "published_at":  "2026-11-05T03:13:56.8085399Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
