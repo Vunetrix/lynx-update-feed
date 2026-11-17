@@ -1,9 +1,9 @@
 {
     "installer":  {
-                      "exe_name":  "LynxUtility-Update-3.5.1.exe",
-                      "size_bytes":  43226081,
-                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.1.exe",
-                      "sha256":  "0c1ce139102df0d68dd43022050177878713382249c046db3cfd4f663e7fab8d",
-                      "note":  "Lynx update installer; includes Uniview Preview sensor."
+                      "exe_name":  "LynxUtility-Update-3.5.2.exe",
+                      "size_bytes":  58074060,
+                      "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.2.exe",
+                      "sha256":  "a1bf98197733a301cf9d6917ed1ee8d6d73673489d00cd725290c71642d12825",
+                      "note":  "Lynx update installer; includes licensed Alta Video sensor."
                   }
 }

@@ -1,14 +1,14 @@
 {
     "schema_version":  "1.0",
     "app":  {
-                "version":  "3.5.1",
-                "exe_name":  "LynxUtility-Update-3.5.1.exe",
-                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.1.exe",
-                "sha256":  "0c1ce139102df0d68dd43022050177878713382249c046db3cfd4f663e7fab8d",
-                "size_bytes":  43226081,
-                "release_notes":  "Lynx 3.5.1 adds the Uniview UNV logo to Dashboard and Integrations. App-only visual update; all sensor packages, configurations, licensing, and deployment behavior remain unchanged. Uniview remains Preview."
+                "version":  "3.5.2",
+                "exe_name":  "LynxUtility-Update-3.5.2.exe",
+                "download_url":  "https://updates.vunetrix.com/lynx/files/LynxUtility-Update-3.5.2.exe",
+                "sha256":  "a1bf98197733a301cf9d6917ed1ee8d6d73673489d00cd725290c71642d12825",
+                "size_bytes":  58074060,
+                "release_notes":  "Lynx 3.5.2 adds licensed Avigilon Alta Video configuration, camera/source discovery and Image Health sensor deployment. Camera support depends on Image Health availability in Alta Video; live validation is ongoing. Existing sensor packages are unchanged."
             },
-    "published_at":  "2026-11-05T03:13:56.8085399Z",
+    "published_at":  "2026-11-17T15:34:35.1752774Z",
     "integrations":  {
                          "Milestone":  {
                                            "additional_artifacts":  [
@@ -65,7 +65,15 @@
                                          "sha256":  "1174c5d7da2e50111a983c48d78c9fbd577b89d807421213efcbc4d53a989d51",
                                          "size_bytes":  15072614,
                                          "release_notes":  "Preview: read-only Uniview NVR camera connectivity and API response time. Live model/firmware validation is pending. Recording status is not monitored. Requires a Uniview license and Lynx 3.5.0 or later for configuration."
-                                     }
+                                     },
+                         "Avigilon Alta Video":  {
+                                                     "version":  "1.0.0",
+                                                     "exe_name":  "alta_video_prtg_sensor.exe",
+                                                     "download_url":  "https://updates.vunetrix.com/lynx/files/alta_video_prtg_sensor-1.0.0.exe",
+                                                     "sha256":  "068131530e02768c1ba2f5db1412f0d78cdd208bd6fece1ee6e29a7150341a24",
+                                                     "size_bytes":  15102207,
+                                                     "release_notes":  "Read-only Alta Video Image Health alerts, monitoring readiness and check age. Model-independent discovery; requires Image Health capability in Alta Video and an Alta Video license. Missing or stale checks do not report healthy. Live camera validation is ongoing. Requires Lynx 3.5.2 or later for configuration."
+                                                 }
                      },
     "minimum_app_version":  "1.0.0"
 }
